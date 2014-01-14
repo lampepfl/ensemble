@@ -4,6 +4,11 @@ layout: default
 
 # Ensemble Reading Group
 
+**This week's paper:**
+[{{ site.papertitle }}]({{ site.paperurl }})
+<br/>
+**Next ensemble meeting:** {{ site.nextmeetingdate }}, {{ site.nextmeetingtime}} in {{ site.nextmeetingloc}}
+
 The purpose of the Ensemble Reading Group is to broaden students' knowledge of
 research in programming languages and verification. Ensemble also aims to give
 students an opportunity to engage and establish a technical dialogue with one
