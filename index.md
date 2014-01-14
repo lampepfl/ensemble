@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Ensemble Reading Group
 
 The purpose of the Ensemble Reading Group is to broaden students' knowledge of
