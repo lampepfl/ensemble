@@ -27,7 +27,7 @@ that can foster interaction with other students in the department
 
 The format is described in four parts: how we select papers, what occurs
 before we meet to discuss, what occurs during the meeting, and what occurs
-afterward. Each Concert reading group session involves three roles, the
+afterward. Each Ensemble reading group session involves three roles, the
 *Convener*, the *Leader*, and the *Guide*.
 
 ## Before the Discussion
