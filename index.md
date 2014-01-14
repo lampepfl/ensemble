@@ -60,13 +60,15 @@ arrive is given the honor of offering the first question.
 The Guide and the Leader are the primary roles during the discussion, and
 should be two different people.
 
-- **The Guide** is there to increase the likelihood that some answer can be found
-to most questions, but their primary role is answering questions, not proposing them.
-- **The Leader** may be the same person as the Convener, and is also a good role
-for younger students. He or she leads the discussion, and tries to make sure that
-the discussion stays on track. In particular, the leader is responsible:
-    - To ensure that discussion continues to move from one topic to the next and
-    that it doesn't get bogged down, and
-    - To verify that questions are answered (to the satisfaction of the asker) or
-    that some time in the future is set aside to continue the discussion.
+- **The Guide** is there to increase the likelihood that some answer can be
+found to most questions, but their primary role is answering questions, not
+proposing them.
+- **The Leader** may be the same person as the Convener, and is also a good
+role for younger students. He or she leads the discussion, and tries to make
+sure that the discussion stays on track. In particular, the leader is
+responsible:
+    - To ensure that discussion continues to move from one topic to the next
+    and that it doesn't get bogged down, and
+    - To verify that questions are answered (to the satisfaction of the asker)
+    or that some time in the future is set aside to continue the discussion.
 

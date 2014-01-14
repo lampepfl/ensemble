@@ -1,3 +1,5 @@
+markdown: rdiscount
+
 papertitle: Scalable Component Abstractions
 paperurl: http://lampwww.epfl.ch/~odersky/papers/ScalableComponent.pdf
 nextmeetingdate: "January 16, 2014"
