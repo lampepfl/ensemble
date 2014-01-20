@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-# Ensemble Reading Group
-
 **This week's paper:**
 [{{ site.papertitle }}]({{ site.paperurl }})
 <br/>
