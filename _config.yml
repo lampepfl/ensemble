@@ -2,8 +2,8 @@ markdown: rdiscount
 
 title: Ensemble Reading Group | LAMP/LARA EPFL
 
-papertitle: Finally Tagless Partially Evaluated. 
-paperurl: http://link.springer.com/content/pdf/10.1007%2F978-3-540-76637-7_15.pdf 
-nextmeetingdate: "February 13, 2014"
+papertitle: One VM to rule them all 
+paperurl: http://www.cs.purdue.edu/homes/gkrichar/papers/onward2013-wuerthinger-truffle.pdf
+nextmeetingdate: "February 27, 2014"
 nextmeetingtime: "11:30-13h"
 nextmeetingloc: "INM331 (LAMP/LARA meeting room)"
